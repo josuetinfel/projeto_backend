@@ -1,0 +1,22 @@
+*{
+    background-color: aqua;
+}
+.titulo1{
+    border: 10px solid aqua;
+    background-color: aqua;
+    color: black;
+    font-family: sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: max-content;
+}
+
+#formCliente{
+    border: 10px solid blue;
+    background-color: blue;
+    width: max-content;
+}
+
+#nome{
+    background-color: 
+    
+}
